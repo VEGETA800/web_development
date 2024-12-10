@@ -1,0 +1,93 @@
+
+body {
+    position: fixed;
+}
+.container {
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    position: absolute;
+}
+
+.box {
+    height: 200px;
+    width: 350px;
+
+}
+
+.box-1 {
+    background-color: red;
+    position: absolute;
+    right: -242px;
+    bottom: -90%;
+    
+}
+
+.box-2 {
+    background-color: green;
+    position: absolute;
+    left: 922%;
+    bottom: -90%;
+}
+
+.box-3 {
+    background-color: blue;
+    position: absolute;
+    top: 380%;
+    right: -241px;
+}
+.box-4 {
+    background-color: yellow;
+    position: absolute;
+    top: 380%;
+    left: 922%;
+
+}
+
+.box-5 {
+    background-color: red;
+    position: absolute;
+    right: -333px;
+    bottom: -131%;    
+    width: 90px;
+    height: 40px;
+}
+
+.box-6 {
+    background-color: green;
+    position: absolute;
+    left: 829%;
+    bottom: -132%;
+    width: 90px;
+    height: 40px;
+
+}
+
+.box-7 {
+    background-color: blue;
+    position: absolute;
+    top: 337%;
+    right: -334%;
+    width: 90px;
+    height: 40px;
+
+}
+
+.box-8 {
+    background-color: yellow;
+    position: absolute;
+    top: 339%;
+    left: 830%;
+    width: 90px;
+    height: 40px;
+}
+
+.box-9 {
+    background-color: hotpink;
+    position: absolute;
+    top: 250%;
+    bottom: 50%;
+    right: -570px;
+    width: 100px;
+    height: 50px;
+}
