@@ -1,0 +1,68 @@
+.title{
+    background-color: aqua;
+   color: Lime;
+}
+#welcome{
+    background-color: blue;
+}
+/*center{
+    font-size: 30px;
+    color: blue;;
+}
+.box{
+    height: 500px;
+    width: 500px;
+    background-color: brown;
+}
+.sub-box{
+    height: 250px;
+    width: 250px;
+    background-color: rgb(234, 12, 12);
+    padding: 100px;
+    border: 10px solid green ;
+    margin: auto;
+    margin-bottom: 30px;
+}*/
+.container{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(255, 0, 0);
+}
+.box{
+    height: 150px;
+    width: 150px;
+    border: 5px solid aqua;
+}
+.box-1{
+    position: relative;
+    left: 39%;
+    position: relative;
+    top: 180px;
+    background-color: rgb(18, 239, 165);
+}
+.box-2{
+    position: relative;
+        left: 61.3%;
+        position: relative;
+    top: 20px;
+    background-color: rgb(228, 29, 142);
+}
+.box-3{
+    position: relative;
+        left: 50%;
+        z-index: 1;
+    background-color: rgb(251, 148, 23);
+}
+.box-4{
+    position: relative;
+        left: 38.8%;position: relative;
+        bottom: 20px;
+    background-color: rgb(0, 42, 255);
+}
+.box-5{
+    position: relative;
+        left: 61%;
+        position: relative;
+    bottom: 180px;
+    background-color: rgb(255, 255, 255);
+}
